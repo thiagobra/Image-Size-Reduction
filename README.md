@@ -61,4 +61,4 @@ Suppose you have a folder `C:\Users\John\Folder` with various images (PNG, GIF, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (You'll need to create a LICENSE file if you intend to distribute this code).
+This project is licensed under the MIT License.
